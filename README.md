@@ -4,7 +4,7 @@ Nice to have it set as a screesaver.
 Run<br /> 
 ```sh 
 crontab -e 
-``
+```
 to set the the refresh interval. 30 minutes works well since it is updated by eumetsat.int every 30 minutes.
 make sure to adjust the path:<br />
 ```sh

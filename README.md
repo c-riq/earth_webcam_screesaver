@@ -12,6 +12,6 @@ make sure to adjust the path:<br />
 */30 * * * *  cd ~/background_images/world && ./update_image.sh
 ```
 Then choose the screesaver folder as in the screesaver settings (MacOS):
-![example](https://raw.githubusercontent.com/c-riq/earth_webcam_screesaver/master/settings.jpg)
+![example](https://raw.githubusercontent.com/c-riq/earth_webcam_screesaver/master/settings.png)
 
 
